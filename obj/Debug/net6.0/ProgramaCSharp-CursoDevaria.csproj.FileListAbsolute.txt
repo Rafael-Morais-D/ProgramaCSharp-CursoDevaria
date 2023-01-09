@@ -1,0 +1,15 @@
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\bin\Debug\net6.0\ProgramaCSharp-CursoDevaria.exe
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\bin\Debug\net6.0\ProgramaCSharp-CursoDevaria.deps.json
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\bin\Debug\net6.0\ProgramaCSharp-CursoDevaria.runtimeconfig.json
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\bin\Debug\net6.0\ProgramaCSharp-CursoDevaria.dll
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\bin\Debug\net6.0\ProgramaCSharp-CursoDevaria.pdb
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.csproj.AssemblyReference.cache
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.AssemblyInfoInputs.cache
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.AssemblyInfo.cs
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.csproj.CoreCompileInputs.cache
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.dll
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\refint\ProgramaCSharp-CursoDevaria.dll
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.pdb
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ProgramaCSharp-CursoDevaria.genruntimeconfig.cache
+D:\VS Projetos\ProgramaCSharp-CursoDevaria\obj\Debug\net6.0\ref\ProgramaCSharp-CursoDevaria.dll
